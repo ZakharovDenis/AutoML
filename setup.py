@@ -11,9 +11,9 @@ setuptools.setup(
     description="Light AutoML tool for classic machine learning",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/ZakharovDenis/AutoML",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/ZakharovDenis/AutoML/issues",
     },
     install_requires=[
         'scikit-learn',
